@@ -1,1 +1,1 @@
-Hi, I'm Inferno, a 15 year old from the UK. I've taken an interest to Minecraft server development and management. When I say development, that goes as far as setting up pre-made plugins and configuring them. Other than Python, I have no experience in other languages.
+
